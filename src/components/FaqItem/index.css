@@ -1,0 +1,32 @@
+/* Write your code here. */
+.list-item {
+  width: 85%;
+  background-color: transparent;
+  border: 1px solid #d7dae6;
+  border-radius: 15px;
+  margin: 14px;
+  padding: 13px;
+}
+.question-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.question {
+  font-size: 28px;
+  font-family: 'Roboto';
+  color: #52606d;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.line {
+  background-color: #f1f5f8;
+}
+.answer {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
